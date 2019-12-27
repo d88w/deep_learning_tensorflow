@@ -1,2 +1,2 @@
 # deep_learning_tensorflow-
-[Deep Learning] [Tensorflow] hands on projects with Tensorflow
+[Deep Learning] [TensorFlow] hands on projects with Tensorflow
