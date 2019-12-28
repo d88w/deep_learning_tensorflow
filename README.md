@@ -1,4 +1,4 @@
-# Some Intro TensorFlow Projects
+# Intro TensorFlow Projects
 
 [TensorfFow] [Image Classifiers] [Neural Networks] Hands on projects with Tensorflow
 
