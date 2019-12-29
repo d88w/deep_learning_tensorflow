@@ -13,5 +13,5 @@ Hands on projects with Tensorflow
 5. CNN cats vs dogs image classifier - overfitting
 6. CNN cats vs dogs image classifier - dropout & image augmentation
 7. CNN flowers catergory image classifier
-8. Transfer Learning cats vs dogs with TensorFlow Hub models - MobileNet & Inception
-
+8. Transfer Learning cats vs dogs image classifier with TensorFlow Hub models (MobileNet & Inception)
+9. Transfer Learning flowers category image classifier with TensorFlow Hub models (MobileNet & Inception)
