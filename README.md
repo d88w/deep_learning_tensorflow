@@ -1,6 +1,6 @@
 # TensorFlow Projects
 
-TensorFlow / Image Classifiers / Neural Networks
+TensorFlow / Image Classifiers / Time Series / Neural Networks / Transfer Learning
 
 TensorFlow hub https://tfhub.dev/
 
