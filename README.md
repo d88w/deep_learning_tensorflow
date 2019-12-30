@@ -19,13 +19,13 @@ CNN for image classfication
 06. CNN cats vs dogs image classifier - dropout & image augmentation
 07. CNN flowers catergory image classifier
 
-Transfer learning
+Transfer learning for image classfication
 
 08. Transfer Learning cats vs dogs image classifier with TensorFlow Hub models (MobileNet & Inception)
 09. Transfer Learning flowers category image classifier with TensorFlow Hub models (MobileNet & Inception)
 10. Saving trained models (a) in HDF5, the format used by Keras, (b) as a TensorFlow SavedModel
 
-Time series
+Time series on TensorFlow
 
 11. Common patterns in time series   - no ML
 12. Naive forecasting in time series - no ML
