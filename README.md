@@ -1,4 +1,4 @@
-# TensorFlow Projects
+# Intro to TensorFlow Projects
 
 TensorFlow / Image Classifiers / Neural Networks
 
