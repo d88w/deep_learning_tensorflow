@@ -25,10 +25,11 @@ Transfer learning for image classfication
 09. Transfer Learning flowers category image classifier with TensorFlow Hub models (MobileNet & Inception)
 10. Saving trained models (a) in HDF5, the format used by Keras, (b) as a TensorFlow SavedModel
 
-Time series on TensorFlow
+Time series on TensorFlow (RNN, CNN, LSTM)
 
 11. Common patterns in time series   - no ML
 12. Naive forecasting in time series - no ML
 13. Moving average in time series    - no ML
 14. Setting up time windows for time series ML training
 15. Forecasting time series with Dense Neural Networks (Dense layers)
+16. RNN (Recurrent Neural Networks) - forecasting time series
