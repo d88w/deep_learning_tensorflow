@@ -34,3 +34,4 @@ Time series on TensorFlow (RNN, CNN, LSTM)
 15. Forecasting time series with Dense Neural Networks (Dense layers)
 16. RNN (Recurrent Neural Networks) - forecasting time series
 17. Stateful RNN - forecasting time series
+18. LSTM (Long Short-term Memory Cell) - forecasting time series
