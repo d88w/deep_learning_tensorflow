@@ -35,3 +35,4 @@ Time series on TensorFlow (RNN, CNN, LSTM)
 16. RNN (Recurrent Neural Networks) - forecasting time series
 17. Stateful RNN - forecasting time series
 18. LSTM (Long Short-term Memory Cell) - forecasting time series
+19. CNN - forecasting time series
