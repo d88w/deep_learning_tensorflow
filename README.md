@@ -33,3 +33,4 @@ Time series on TensorFlow (RNN, CNN, LSTM)
 14. Setting up time windows for time series ML training
 15. Forecasting time series with Dense Neural Networks (Dense layers)
 16. RNN (Recurrent Neural Networks) - forecasting time series
+17. Stateful RNN - forecasting time series
